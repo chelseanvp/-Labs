@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/CLion/OOTP LAb4/HeadingOfClassQueue.h
+
+D:/CLion/OOTP LAb4/RealizaciyaOfClassQueue.h
+iostream
+-
+HeadingOfClassQueue.h
+D:/CLion/OOTP LAb4/HeadingOfClassQueue.h
+
+D:/CLion/OOTP LAb4/UserClass.h
+
+D:/CLion/OOTP LAb4/main.cpp
+iostream
+-
+windows.h
+-
+HeadingOfClassQueue.h
+D:/CLion/OOTP LAb4/HeadingOfClassQueue.h
+RealizaciyaOfClassQueue.h
+D:/CLion/OOTP LAb4/RealizaciyaOfClassQueue.h
+UserClass.h
+D:/CLion/OOTP LAb4/UserClass.h
+
