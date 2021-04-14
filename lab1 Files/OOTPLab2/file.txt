@@ -1,0 +1,15 @@
+# include < iostream >
+includemre
+# include < cstdlib > 
+include
+includemnye
+using namespace std ;
+
+int main ( ) 
+{ 
+    cout << " hello , world ! " << endl ;
+    system ( " pause " ) ; 
+    return 0 ; 
+}
+
+applecdmnr applecd
