@@ -20,7 +20,6 @@ public:
     int getArraySize();
     void print();
     int push(T value);
-    int pop();
     int objectSize(T2 object);
 
 

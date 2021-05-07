@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/kolya/CLionProjects/OOTP_LAB5/List.h
+iostream
+-
+
+/home/kolya/CLionProjects/OOTP_LAB5/TASK3.h
+
+/home/kolya/CLionProjects/OOTP_LAB5/Task3.cpp
+iostream
+-
+set
+-
+list
+-
+vector
+-
+List.h
+/home/kolya/CLionProjects/OOTP_LAB5/List.h
+TASK3.h
+/home/kolya/CLionProjects/OOTP_LAB5/TASK3.h
+

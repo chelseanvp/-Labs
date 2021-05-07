@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/OOTP_LAB5.dir/main.cpp.o CMakeFiles/OOTP_LAB5.dir/Task1.cpp.o CMakeFiles/OOTP_LAB5.dir/Task2.cpp.o CMakeFiles/OOTP_LAB5.dir/Task3.cpp.o CMakeFiles/OOTP_LAB5.dir/UserClass.cpp.o CMakeFiles/OOTP_LAB5.dir/List.cpp.o -o OOTP_LAB5 

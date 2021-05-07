@@ -1,8 +1,6 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/OOTP_LAb4.dir/main.cpp.obj"
-  "OOTP_LAb4.exe"
-  "OOTP_LAb4.exe.manifest"
-  "OOTP_LAb4.lib"
+  "CMakeFiles/OOTP_LAb4.dir/main.cpp.o"
+  "OOTP_LAb4"
   "OOTP_LAb4.pdb"
 )
 

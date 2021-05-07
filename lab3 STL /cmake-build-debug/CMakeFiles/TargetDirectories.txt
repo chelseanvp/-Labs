@@ -1,0 +1,3 @@
+/home/kolya/CLionProjects/OOTP_LAB5/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/kolya/CLionProjects/OOTP_LAB5/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/kolya/CLionProjects/OOTP_LAB5/cmake-build-debug/CMakeFiles/OOTP_LAB5.dir

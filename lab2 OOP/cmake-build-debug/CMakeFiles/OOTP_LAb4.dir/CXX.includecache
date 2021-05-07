@@ -6,25 +6,23 @@
 
 #IncludeRegexTransform: 
 
-D:/CLion/OOTP LAb4/HeadingOfClassQueue.h
+/home/kolya/git/C-Labs/lab2 OOP/HeadingOfClassQueue.h
 
-D:/CLion/OOTP LAb4/RealizaciyaOfClassQueue.h
+/home/kolya/git/C-Labs/lab2 OOP/RealizaciyaOfClassQueue.h
 iostream
 -
 HeadingOfClassQueue.h
-D:/CLion/OOTP LAb4/HeadingOfClassQueue.h
+/home/kolya/git/C-Labs/lab2 OOP/HeadingOfClassQueue.h
 
-D:/CLion/OOTP LAb4/UserClass.h
+/home/kolya/git/C-Labs/lab2 OOP/UserClass.h
 
-D:/CLion/OOTP LAb4/main.cpp
+/home/kolya/git/C-Labs/lab2 OOP/main.cpp
 iostream
 -
-windows.h
--
 HeadingOfClassQueue.h
-D:/CLion/OOTP LAb4/HeadingOfClassQueue.h
+/home/kolya/git/C-Labs/lab2 OOP/HeadingOfClassQueue.h
 RealizaciyaOfClassQueue.h
-D:/CLion/OOTP LAb4/RealizaciyaOfClassQueue.h
+/home/kolya/git/C-Labs/lab2 OOP/RealizaciyaOfClassQueue.h
 UserClass.h
-D:/CLion/OOTP LAb4/UserClass.h
+/home/kolya/git/C-Labs/lab2 OOP/UserClass.h
 
