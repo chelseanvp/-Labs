@@ -1,3 +1,0 @@
-/home/kolya/git/C-Labs/lab2 OOP/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/kolya/git/C-Labs/lab2 OOP/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/kolya/git/C-Labs/lab2 OOP/cmake-build-debug/CMakeFiles/OOTP_LAb4.dir
