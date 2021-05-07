@@ -7,7 +7,7 @@ class List {
 private:
     int length;
 public:
-    explicit List(int side_length = 5);
+    explicit List(int length = 5);
 
     int get_side_length() const;
 

@@ -1,7 +1,7 @@
 #include "List.h"
 
-List::List(int side_length) {
-    this->length = side_length;
+List::List(int length) {
+    this->length = length;
 }
 
 
