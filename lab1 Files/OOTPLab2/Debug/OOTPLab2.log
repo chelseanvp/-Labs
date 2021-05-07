@@ -1,5 +1,0 @@
-﻿  Source.cpp
-D:\visual\OOTPLab2\OOTPLab2\Source.cpp(23,29): warning C4018: >=: несоответствие типов со знаком и без знака
-D:\visual\OOTPLab2\OOTPLab2\Source.cpp(31,29): warning C4018: >=: несоответствие типов со знаком и без знака
-D:\visual\OOTPLab2\OOTPLab2\Source.cpp(163): warning C4715: workwithFile: значение возвращается не при всех путях выполнения
-  OOTPLab2.vcxproj -> D:\visual\OOTPLab2\Debug\OOTPLab2.exe
