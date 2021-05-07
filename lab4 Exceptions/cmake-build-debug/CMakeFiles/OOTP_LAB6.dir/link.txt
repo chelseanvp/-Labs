@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/OOTP_LAB6.dir/main.cpp.o CMakeFiles/OOTP_LAB6.dir/test.cpp.o -o OOTP_LAB6 
