@@ -4,12 +4,12 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/kolya/CLionProjects/OOTP_LAB5/List.cpp" "/home/kolya/CLionProjects/OOTP_LAB5/cmake-build-debug/CMakeFiles/OOTP_LAB5.dir/List.cpp.o"
-  "/home/kolya/CLionProjects/OOTP_LAB5/Task1.cpp" "/home/kolya/CLionProjects/OOTP_LAB5/cmake-build-debug/CMakeFiles/OOTP_LAB5.dir/Task1.cpp.o"
-  "/home/kolya/CLionProjects/OOTP_LAB5/Task2.cpp" "/home/kolya/CLionProjects/OOTP_LAB5/cmake-build-debug/CMakeFiles/OOTP_LAB5.dir/Task2.cpp.o"
-  "/home/kolya/CLionProjects/OOTP_LAB5/Task3.cpp" "/home/kolya/CLionProjects/OOTP_LAB5/cmake-build-debug/CMakeFiles/OOTP_LAB5.dir/Task3.cpp.o"
-  "/home/kolya/CLionProjects/OOTP_LAB5/UserClass.cpp" "/home/kolya/CLionProjects/OOTP_LAB5/cmake-build-debug/CMakeFiles/OOTP_LAB5.dir/UserClass.cpp.o"
-  "/home/kolya/CLionProjects/OOTP_LAB5/main.cpp" "/home/kolya/CLionProjects/OOTP_LAB5/cmake-build-debug/CMakeFiles/OOTP_LAB5.dir/main.cpp.o"
+  "/home/kolya/git/C-Labs/lab3 STL /List.cpp" "/home/kolya/git/C-Labs/lab3 STL /cmake-build-debug/CMakeFiles/OOTP_LAB5.dir/List.cpp.o"
+  "/home/kolya/git/C-Labs/lab3 STL /Task1.cpp" "/home/kolya/git/C-Labs/lab3 STL /cmake-build-debug/CMakeFiles/OOTP_LAB5.dir/Task1.cpp.o"
+  "/home/kolya/git/C-Labs/lab3 STL /Task2.cpp" "/home/kolya/git/C-Labs/lab3 STL /cmake-build-debug/CMakeFiles/OOTP_LAB5.dir/Task2.cpp.o"
+  "/home/kolya/git/C-Labs/lab3 STL /Task3.cpp" "/home/kolya/git/C-Labs/lab3 STL /cmake-build-debug/CMakeFiles/OOTP_LAB5.dir/Task3.cpp.o"
+  "/home/kolya/git/C-Labs/lab3 STL /UserClass.cpp" "/home/kolya/git/C-Labs/lab3 STL /cmake-build-debug/CMakeFiles/OOTP_LAB5.dir/UserClass.cpp.o"
+  "/home/kolya/git/C-Labs/lab3 STL /main.cpp" "/home/kolya/git/C-Labs/lab3 STL /cmake-build-debug/CMakeFiles/OOTP_LAB5.dir/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

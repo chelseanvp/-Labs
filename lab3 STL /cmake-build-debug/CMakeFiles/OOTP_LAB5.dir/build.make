@@ -62,10 +62,10 @@ RM = /home/kolya/Загрузки/clion-2021.1/bin/cmake/linux/bin/cmake -E rm -
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/kolya/CLionProjects/OOTP_LAB5
+CMAKE_SOURCE_DIR = "/home/kolya/git/C-Labs/lab3 STL "
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/kolya/CLionProjects/OOTP_LAB5/cmake-build-debug
+CMAKE_BINARY_DIR = "/home/kolya/git/C-Labs/lab3 STL /cmake-build-debug"
 
 # Include any dependencies generated for this target.
 include CMakeFiles/OOTP_LAB5.dir/depend.make
@@ -78,81 +78,81 @@ include CMakeFiles/OOTP_LAB5.dir/flags.make
 
 CMakeFiles/OOTP_LAB5.dir/main.cpp.o: CMakeFiles/OOTP_LAB5.dir/flags.make
 CMakeFiles/OOTP_LAB5.dir/main.cpp.o: ../main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/kolya/CLionProjects/OOTP_LAB5/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/OOTP_LAB5.dir/main.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/OOTP_LAB5.dir/main.cpp.o -c /home/kolya/CLionProjects/OOTP_LAB5/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/kolya/git/C-Labs/lab3 STL /cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/OOTP_LAB5.dir/main.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/OOTP_LAB5.dir/main.cpp.o -c "/home/kolya/git/C-Labs/lab3 STL /main.cpp"
 
 CMakeFiles/OOTP_LAB5.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/OOTP_LAB5.dir/main.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/kolya/CLionProjects/OOTP_LAB5/main.cpp > CMakeFiles/OOTP_LAB5.dir/main.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/kolya/git/C-Labs/lab3 STL /main.cpp" > CMakeFiles/OOTP_LAB5.dir/main.cpp.i
 
 CMakeFiles/OOTP_LAB5.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/OOTP_LAB5.dir/main.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/kolya/CLionProjects/OOTP_LAB5/main.cpp -o CMakeFiles/OOTP_LAB5.dir/main.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/kolya/git/C-Labs/lab3 STL /main.cpp" -o CMakeFiles/OOTP_LAB5.dir/main.cpp.s
 
 CMakeFiles/OOTP_LAB5.dir/Task1.cpp.o: CMakeFiles/OOTP_LAB5.dir/flags.make
 CMakeFiles/OOTP_LAB5.dir/Task1.cpp.o: ../Task1.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/kolya/CLionProjects/OOTP_LAB5/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/OOTP_LAB5.dir/Task1.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/OOTP_LAB5.dir/Task1.cpp.o -c /home/kolya/CLionProjects/OOTP_LAB5/Task1.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/kolya/git/C-Labs/lab3 STL /cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/OOTP_LAB5.dir/Task1.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/OOTP_LAB5.dir/Task1.cpp.o -c "/home/kolya/git/C-Labs/lab3 STL /Task1.cpp"
 
 CMakeFiles/OOTP_LAB5.dir/Task1.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/OOTP_LAB5.dir/Task1.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/kolya/CLionProjects/OOTP_LAB5/Task1.cpp > CMakeFiles/OOTP_LAB5.dir/Task1.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/kolya/git/C-Labs/lab3 STL /Task1.cpp" > CMakeFiles/OOTP_LAB5.dir/Task1.cpp.i
 
 CMakeFiles/OOTP_LAB5.dir/Task1.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/OOTP_LAB5.dir/Task1.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/kolya/CLionProjects/OOTP_LAB5/Task1.cpp -o CMakeFiles/OOTP_LAB5.dir/Task1.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/kolya/git/C-Labs/lab3 STL /Task1.cpp" -o CMakeFiles/OOTP_LAB5.dir/Task1.cpp.s
 
 CMakeFiles/OOTP_LAB5.dir/Task2.cpp.o: CMakeFiles/OOTP_LAB5.dir/flags.make
 CMakeFiles/OOTP_LAB5.dir/Task2.cpp.o: ../Task2.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/kolya/CLionProjects/OOTP_LAB5/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/OOTP_LAB5.dir/Task2.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/OOTP_LAB5.dir/Task2.cpp.o -c /home/kolya/CLionProjects/OOTP_LAB5/Task2.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/kolya/git/C-Labs/lab3 STL /cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/OOTP_LAB5.dir/Task2.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/OOTP_LAB5.dir/Task2.cpp.o -c "/home/kolya/git/C-Labs/lab3 STL /Task2.cpp"
 
 CMakeFiles/OOTP_LAB5.dir/Task2.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/OOTP_LAB5.dir/Task2.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/kolya/CLionProjects/OOTP_LAB5/Task2.cpp > CMakeFiles/OOTP_LAB5.dir/Task2.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/kolya/git/C-Labs/lab3 STL /Task2.cpp" > CMakeFiles/OOTP_LAB5.dir/Task2.cpp.i
 
 CMakeFiles/OOTP_LAB5.dir/Task2.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/OOTP_LAB5.dir/Task2.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/kolya/CLionProjects/OOTP_LAB5/Task2.cpp -o CMakeFiles/OOTP_LAB5.dir/Task2.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/kolya/git/C-Labs/lab3 STL /Task2.cpp" -o CMakeFiles/OOTP_LAB5.dir/Task2.cpp.s
 
 CMakeFiles/OOTP_LAB5.dir/Task3.cpp.o: CMakeFiles/OOTP_LAB5.dir/flags.make
 CMakeFiles/OOTP_LAB5.dir/Task3.cpp.o: ../Task3.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/kolya/CLionProjects/OOTP_LAB5/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/OOTP_LAB5.dir/Task3.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/OOTP_LAB5.dir/Task3.cpp.o -c /home/kolya/CLionProjects/OOTP_LAB5/Task3.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/kolya/git/C-Labs/lab3 STL /cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/OOTP_LAB5.dir/Task3.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/OOTP_LAB5.dir/Task3.cpp.o -c "/home/kolya/git/C-Labs/lab3 STL /Task3.cpp"
 
 CMakeFiles/OOTP_LAB5.dir/Task3.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/OOTP_LAB5.dir/Task3.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/kolya/CLionProjects/OOTP_LAB5/Task3.cpp > CMakeFiles/OOTP_LAB5.dir/Task3.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/kolya/git/C-Labs/lab3 STL /Task3.cpp" > CMakeFiles/OOTP_LAB5.dir/Task3.cpp.i
 
 CMakeFiles/OOTP_LAB5.dir/Task3.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/OOTP_LAB5.dir/Task3.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/kolya/CLionProjects/OOTP_LAB5/Task3.cpp -o CMakeFiles/OOTP_LAB5.dir/Task3.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/kolya/git/C-Labs/lab3 STL /Task3.cpp" -o CMakeFiles/OOTP_LAB5.dir/Task3.cpp.s
 
 CMakeFiles/OOTP_LAB5.dir/UserClass.cpp.o: CMakeFiles/OOTP_LAB5.dir/flags.make
 CMakeFiles/OOTP_LAB5.dir/UserClass.cpp.o: ../UserClass.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/kolya/CLionProjects/OOTP_LAB5/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/OOTP_LAB5.dir/UserClass.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/OOTP_LAB5.dir/UserClass.cpp.o -c /home/kolya/CLionProjects/OOTP_LAB5/UserClass.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/kolya/git/C-Labs/lab3 STL /cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/OOTP_LAB5.dir/UserClass.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/OOTP_LAB5.dir/UserClass.cpp.o -c "/home/kolya/git/C-Labs/lab3 STL /UserClass.cpp"
 
 CMakeFiles/OOTP_LAB5.dir/UserClass.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/OOTP_LAB5.dir/UserClass.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/kolya/CLionProjects/OOTP_LAB5/UserClass.cpp > CMakeFiles/OOTP_LAB5.dir/UserClass.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/kolya/git/C-Labs/lab3 STL /UserClass.cpp" > CMakeFiles/OOTP_LAB5.dir/UserClass.cpp.i
 
 CMakeFiles/OOTP_LAB5.dir/UserClass.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/OOTP_LAB5.dir/UserClass.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/kolya/CLionProjects/OOTP_LAB5/UserClass.cpp -o CMakeFiles/OOTP_LAB5.dir/UserClass.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/kolya/git/C-Labs/lab3 STL /UserClass.cpp" -o CMakeFiles/OOTP_LAB5.dir/UserClass.cpp.s
 
 CMakeFiles/OOTP_LAB5.dir/List.cpp.o: CMakeFiles/OOTP_LAB5.dir/flags.make
 CMakeFiles/OOTP_LAB5.dir/List.cpp.o: ../List.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/kolya/CLionProjects/OOTP_LAB5/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/OOTP_LAB5.dir/List.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/OOTP_LAB5.dir/List.cpp.o -c /home/kolya/CLionProjects/OOTP_LAB5/List.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/kolya/git/C-Labs/lab3 STL /cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/OOTP_LAB5.dir/List.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/OOTP_LAB5.dir/List.cpp.o -c "/home/kolya/git/C-Labs/lab3 STL /List.cpp"
 
 CMakeFiles/OOTP_LAB5.dir/List.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/OOTP_LAB5.dir/List.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/kolya/CLionProjects/OOTP_LAB5/List.cpp > CMakeFiles/OOTP_LAB5.dir/List.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/kolya/git/C-Labs/lab3 STL /List.cpp" > CMakeFiles/OOTP_LAB5.dir/List.cpp.i
 
 CMakeFiles/OOTP_LAB5.dir/List.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/OOTP_LAB5.dir/List.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/kolya/CLionProjects/OOTP_LAB5/List.cpp -o CMakeFiles/OOTP_LAB5.dir/List.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/kolya/git/C-Labs/lab3 STL /List.cpp" -o CMakeFiles/OOTP_LAB5.dir/List.cpp.s
 
 # Object files for target OOTP_LAB5
 OOTP_LAB5_OBJECTS = \
@@ -174,7 +174,7 @@ OOTP_LAB5: CMakeFiles/OOTP_LAB5.dir/UserClass.cpp.o
 OOTP_LAB5: CMakeFiles/OOTP_LAB5.dir/List.cpp.o
 OOTP_LAB5: CMakeFiles/OOTP_LAB5.dir/build.make
 OOTP_LAB5: CMakeFiles/OOTP_LAB5.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/kolya/CLionProjects/OOTP_LAB5/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Linking CXX executable OOTP_LAB5"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="/home/kolya/git/C-Labs/lab3 STL /cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_7) "Linking CXX executable OOTP_LAB5"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/OOTP_LAB5.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -187,6 +187,6 @@ CMakeFiles/OOTP_LAB5.dir/clean:
 .PHONY : CMakeFiles/OOTP_LAB5.dir/clean
 
 CMakeFiles/OOTP_LAB5.dir/depend:
-	cd /home/kolya/CLionProjects/OOTP_LAB5/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/kolya/CLionProjects/OOTP_LAB5 /home/kolya/CLionProjects/OOTP_LAB5 /home/kolya/CLionProjects/OOTP_LAB5/cmake-build-debug /home/kolya/CLionProjects/OOTP_LAB5/cmake-build-debug /home/kolya/CLionProjects/OOTP_LAB5/cmake-build-debug/CMakeFiles/OOTP_LAB5.dir/DependInfo.cmake --color=$(COLOR)
+	cd "/home/kolya/git/C-Labs/lab3 STL /cmake-build-debug" && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" "/home/kolya/git/C-Labs/lab3 STL " "/home/kolya/git/C-Labs/lab3 STL " "/home/kolya/git/C-Labs/lab3 STL /cmake-build-debug" "/home/kolya/git/C-Labs/lab3 STL /cmake-build-debug" "/home/kolya/git/C-Labs/lab3 STL /cmake-build-debug/CMakeFiles/OOTP_LAB5.dir/DependInfo.cmake" --color=$(COLOR)
 .PHONY : CMakeFiles/OOTP_LAB5.dir/depend
 

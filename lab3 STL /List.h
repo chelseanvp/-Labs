@@ -5,7 +5,7 @@ using namespace std;
 
 class List {
 private:
-    int side_length;
+    int length;
 public:
     explicit List(int side_length = 5);
 
@@ -17,15 +17,15 @@ public:
     bool operator!=(const List &other) const;
 
     friend ostream &operator<<(ostream &out, const List &list) {
-        out << list.side_length;
+        out << list.length;
         return out;
     }
 
     friend istream& operator>>(istream &in, List &list) {
-        in >> list.side_length;
+        in >> list.length;
         return in;
     }
 
-    ~List() = default;
+    ~List();
 };
 #endif //OOTP_LAB5_LIST_H

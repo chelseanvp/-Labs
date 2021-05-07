@@ -1,4 +1,4 @@
-# Install script for directory: /home/kolya/CLionProjects/OOTP_LAB5
+# Install script for directory: /home/kolya/git/C-Labs/lab3 STL 
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -50,5 +50,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/kolya/CLionProjects/OOTP_LAB5/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/kolya/git/C-Labs/lab3 STL /cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
